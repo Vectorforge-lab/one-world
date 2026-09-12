@@ -1,0 +1,2 @@
+# No third-party Python dependencies are required by the public demo.
+# System dependency: FFmpeg must be available in PATH.
